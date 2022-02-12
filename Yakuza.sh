@@ -70,7 +70,7 @@ do
 = \033[1;33mSobre o Projeto Yakuza Script:\033[0m \033[1;36m=
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 \033[0m
-\033[1;31mYakuza é um projeto da Umbrella Hacking, que tem por objetivo enviar áudio falso no Whatsapp. atualmente está é a versão 1 desenvolvida pelo Helexiel em Shell Script. 
+\033[1;31mYakuza é um projeto da Speatec Wayne, que tem por objetivo enviar áudio falso no Whatsapp. atualmente está na versão 1 desenvolvida pelo Gabriel Wayne em Shell Script. 
 
 A pergunta que não quer calar é "Como ele fez isso?" Ele implementou o programa espeak na sua script para fazer o termux falar e também utilizou um método que ele mesmo descobriu.
 
